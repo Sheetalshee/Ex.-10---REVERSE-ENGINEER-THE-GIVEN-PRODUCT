@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Sheetalshee/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979107/528fa118-6c90-4c2b-8f18-e3d68deee6b5)
 
 ### Output:
+![image](https://github.com/Sheetalshee/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979107/08777c4d-dace-4aee-990d-4ddee1f4d379)
 
 
-### Name:
-### Register Number:
+### Name: SHEETAL R
+### Register Number: 212223230206
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
